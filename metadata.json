@@ -1,0 +1,6 @@
+{
+  "name": "The Great Champion Gym",
+  "description": "The Great Champion Gym — Build Your Strength. Become a Champion. Premium fitness and strength training environment in Arrah, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
